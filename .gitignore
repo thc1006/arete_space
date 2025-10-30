@@ -1,0 +1,15 @@
+# IDE
+.vscode
+
+# dependencies
+bot_config.py
+
+# Cache
+**/__pycache__
+
+# venv
+LC
+新增資料夾/
+新增資料夾/*
+新增資料夾/
+C:/Users/thc1006/Desktop/dev/temp/arete_space/新增資料夾/
